@@ -1,0 +1,25 @@
+{
+    "name": "Julie Hunt",
+    "age": 60,
+    "address": {
+        "street": "Veronica Loop",
+        "city": "West Cynthia",
+        "state": "Georgia",
+        "zip": "60000"
+    },
+    "contact": {
+        "phone": "5797600880",
+        "servicePhone": "800679794"
+    },
+    "birthday": "1965-28-07",
+    "ip": "106.143.192.105",
+    "foo": "bar",
+    "profile": {
+        "about": "And cell simply. Easy available budget. Court time material exactly factor service court.\nVoice thing find ago night.",
+        "bio": "Executive five bank pretty quite method fast. Bag back customer impact add. Should line standard share car.\nKnowledge care big test garden alone. Lose yes charge much. Walk tree according body."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
