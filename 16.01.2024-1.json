@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Bryant",
+    "age": 17,
+    "address": {
+        "street": "Brad Crescent",
+        "city": "Alvarezhaven",
+        "state": "California",
+        "zip": "99385"
+    },
+    "contact": {
+        "phone": "734.619.1882x023",
+        "servicePhone": "800640483"
+    },
+    "birthday": "2008-27-08",
+    "ip": "121.10.67.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Scene cell general. About again small first far.\nWar water however should performance land. Choose role general throw fill none. Nearly type matter us list. Six economy listen country.",
+        "bio": "View want student sure glass onto writer. Officer environment lay capital should hope.\nNecessary TV red must. Then forget fall member sometimes. Begin when each so course about field."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
