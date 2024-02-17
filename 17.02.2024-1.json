@@ -1,0 +1,25 @@
+{
+    "name": "Ann Rose",
+    "age": 49,
+    "address": {
+        "street": "Amanda Run",
+        "city": "Michaelmouth",
+        "state": "Louisiana",
+        "zip": "07996"
+    },
+    "contact": {
+        "phone": "001-862-542-5697",
+        "servicePhone": "800642363"
+    },
+    "birthday": "1976-18-05",
+    "ip": "139.250.42.117",
+    "foo": "bar",
+    "profile": {
+        "about": "It character list.\nOld officer wife month family so. Such together only relationship others mother tend possible.\nSing billion picture anything. Include world knowledge do. Save will watch.",
+        "bio": "Drive sense bed ask walk claim. Most rather walk bring finish recognize even.\nPhysical interest sort TV nice doctor. Value pretty also hand work rather color. Sit long big while."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
