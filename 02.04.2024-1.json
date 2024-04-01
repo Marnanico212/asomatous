@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Joseph Munoz MD",
+    "age": 66,
+    "address": {
+        "street": "Torres Trail",
+        "city": "Alejandrochester",
+        "state": "Maryland",
+        "zip": "88586"
+    },
+    "contact": {
+        "phone": "463-946-7805",
+        "servicePhone": "800969598"
+    },
+    "birthday": "1959-04-12",
+    "ip": "172.68.245.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Fine sign top scene news. Art material shake. Attention describe charge maintain.\nDoctor address wish economic. When loss identify condition source.",
+        "bio": "Give compare its environment beat budget what. Dinner apply phone debate environment yeah.\nBoard production source three figure contain. Dog gun successful deep hot."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
