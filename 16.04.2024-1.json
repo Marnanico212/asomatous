@@ -1,0 +1,25 @@
+{
+    "name": "Richard Waters",
+    "age": 71,
+    "address": {
+        "street": "Roberts Village",
+        "city": "Deannamouth",
+        "state": "North Carolina",
+        "zip": "99518"
+    },
+    "contact": {
+        "phone": "+1-932-664-4636x61494",
+        "servicePhone": "800808168"
+    },
+    "birthday": "1954-30-01",
+    "ip": "90.74.239.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Quickly under action choice. Clear win ever involve community important.",
+        "bio": "Each coach focus big. Production water will rock back sure top.\nFirst write mention computer sense. Staff item east newspaper some every heavy."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
