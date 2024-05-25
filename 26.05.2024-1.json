@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Dillon",
+    "age": 36,
+    "address": {
+        "street": "Ruiz Groves",
+        "city": "Olsonview",
+        "state": "Texas",
+        "zip": "58745"
+    },
+    "contact": {
+        "phone": "001-546-672-4581x2354",
+        "servicePhone": "800207532"
+    },
+    "birthday": "1989-08-10",
+    "ip": "197.140.13.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Might house chance maybe mean space establish agreement. They arrive site every alone.",
+        "bio": "Consider floor the military. But off car join effort. Sense camera much quickly.\nRed create medical garden fine professor baby language. Pull public we security receive speech walk."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
