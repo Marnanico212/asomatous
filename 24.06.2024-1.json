@@ -1,0 +1,25 @@
+{
+    "name": "John Hayes",
+    "age": 22,
+    "address": {
+        "street": "Michael Land",
+        "city": "West Jamesland",
+        "state": "Colorado",
+        "zip": "88005"
+    },
+    "contact": {
+        "phone": "691-609-0544x3188",
+        "servicePhone": "800289917"
+    },
+    "birthday": "2003-03-04",
+    "ip": "221.79.118.219",
+    "foo": "bar",
+    "profile": {
+        "about": "Poor them guess beyond data. List scene treat oil new term song.",
+        "bio": "Civil you gas very of. Machine question board imagine. Tree treatment teacher here mean fact across.\nSomebody just matter. Wear place speech simple parent."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
