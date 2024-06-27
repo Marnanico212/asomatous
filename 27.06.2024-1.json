@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Murray",
+    "age": 63,
+    "address": {
+        "street": "Daniel Prairie",
+        "city": "Silvatown",
+        "state": "Oklahoma",
+        "zip": "02189"
+    },
+    "contact": {
+        "phone": "601-414-5559",
+        "servicePhone": "800266420"
+    },
+    "birthday": "1962-28-03",
+    "ip": "183.230.86.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Today reflect agent interview. Size human hit finally age dog work rich.\nInternational south wait difficult.",
+        "bio": "Many young how magazine not campaign. Management computer anything. Window opportunity another back.\nProduct cost by apply finally. Majority nothing general within."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
