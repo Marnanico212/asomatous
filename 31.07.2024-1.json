@@ -1,0 +1,25 @@
+{
+    "name": "Alan Gilbert",
+    "age": 67,
+    "address": {
+        "street": "Jones Vista",
+        "city": "Lake Danielchester",
+        "state": "South Carolina",
+        "zip": "43853"
+    },
+    "contact": {
+        "phone": "+1-855-424-4569x48551",
+        "servicePhone": "800256168"
+    },
+    "birthday": "1958-10-08",
+    "ip": "65.45.13.3",
+    "foo": "bar",
+    "profile": {
+        "about": "Hope rock eat young treatment head growth. Clear concern likely threat. National character base pick indicate before.",
+        "bio": "Road owner always hundred bed each. Dog past artist develop.\nLand drive article speak leg. Control lot figure receive.\nCold rise save since. Assume statement evidence month range."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
